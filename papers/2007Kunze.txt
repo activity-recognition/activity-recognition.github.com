@@ -1,0 +1,10 @@
+@inproceedings{Kunze:2007tn,
+author = {Kunze, Kai and Lukowicz, Paul},
+title = {{Using acceleration signatures from everyday activities for on-body device location}},
+booktitle = {ISWC '07: Proceedings of the 2007 11th IEEE International Symposium on Wearable Computers},
+year = {2007},
+publisher = { IEEE Computer Society},
+month = oct
+}
+
+

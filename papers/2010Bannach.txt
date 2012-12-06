@@ -1,0 +1,6 @@
+@inproceedings{Bannach:2010wt,
+author = {Bannach, D and Kunze, K and Weppner, J},
+title = {{Integrated tool chain for recording and handling large, multimodal context recognition data sets}},
+booktitle = {Ubicomp '10: Proceedings of the 12th ACM international conference adjunct papers on Ubiquitous computing},
+year = {2010}
+}
