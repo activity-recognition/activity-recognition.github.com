@@ -1,0 +1,10 @@
+@inproceedings{Kunze:2009ub,
+author = {Kunze, Kai and Lukowicz, Paul and Partridge, Kurt and Begole, Bo},
+title = {{Which Way Am I Facing: Inferring Horizontal Device Orientation from an Accelerometer Signal}},
+booktitle = {ISWC '09: Proceedings of the 2009 International Symposium on Wearable Computers},
+year = {2009},
+publisher = { IEEE Computer Society},
+address = {Linz, Austria},
+month = sep
+}
+

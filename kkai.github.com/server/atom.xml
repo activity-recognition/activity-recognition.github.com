@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Kai Kunze</title>
+ <link href="http://kkai.github.com/site/atom.xml" rel="self"/>
+ <link href="http://kkai.github.com/site"/>
+ <updated>2012-10-29T17:04:30+09:00</updated>
+ <id>http://kkai.github.com/site</id>
+ <author>
+   <name>Kai Kunze</name>
+   <email>kai.kunze@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>ACM Multimedia 2012 Day 1 Notes</title>
+   <link href="http://kkai.github.com/site/2012/10/29/acm-multimedia-2012-day-1-notes"/>
+   <updated>2012-10-29T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/2012/10/29/acm-multimedia-2012-day-1-notes</id>
+   <content type="html">&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Interacting with Image Collections – Visualisation and Browsing of Image Repositories Schaefer gave a overview about how to browse large scale image repositories. Interesting, yet of not really related to my research interests. He showed 3 approaches for retrieval: mapping-based, clustering-based and graph-based. I would have loved if he could have gone a bit more in detail in the mobile section at the end.&lt;/p&gt;
+
+&lt;p&gt;Continuous Analysis of Emotions for Multimedia Applications Hatice Gunes and Bjoern Schuller introduced a state of the art in emotion analysis. Their problems seem very similar to what we have to cope with in activity recognition, especially in terms of segmentation and continuous recognition problems.&lt;/p&gt;
+
+&lt;p&gt;interesting links &lt;a href='http://semaine-db.eu'&gt;Semaine Corpus&lt;/a&gt; &lt;a href='http://www.informatik.uni-augsburg.de/de/lehrstuehle/hcm/projects/tools/emovoice/'&gt;EmoVoice Audio Emotion classifier&lt;/a&gt; &lt;a href='http://www.affectiva.com/q-sensor/'&gt;qsensor&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Laughing Faces App in the AppStore</title>
+   <link href="http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore"/>
+   <updated>2012-08-30T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore</id>
+   <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
+
+&lt;p&gt;Again, I&amp;#8217;m very surprised by the accessibility and quality of Apples apis and their sample code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Laughing Face' src='/imgs/laughing.png' /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a start, this little app is a &amp;#8220;privacy enhanced&amp;#8221; camera app for entertainment purposes. It uses face detection and draws a little laughing face on top of each recognized head in real time. I hesitated putting it in the store, yet was asked by some friends to do so (had to exchange the laughing face due to copyright constraints).&lt;/p&gt;
+
+&lt;p&gt;Grab it while it&amp;#8217;s hot &amp;#8230; it&amp;#8217;s quite popular in Japan (understandable given the background, see below), China and Saudi Arabia (of all places, &amp;#8230; if somebody can tell me why, please send me a mail): &lt;a href='http://itunes.apple.com/us/app/laughing-faces/id551656355?mt=8'&gt;Laughing Faces AppStore Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;By the way, I had over 250 downloads the first day :) Oh if you wonder, the inspiration came from &lt;a href='http://en.wikipedia.org/wiki/Laughing_Man_(Ghost_in_the_Shell'&gt;Ghost in the Shell Standalone Complex&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;If people bug me enough, I will make the png exchangable. Cannot tell you too much, yet expect an update when iOS6 hits.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>AAAI activity context workshop notes</title>
+   <link href="http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes"/>
+   <updated>2012-07-26T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</id>
+   <content type="html">&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
+
+&lt;p&gt;The keynote &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556'&gt;How to make Face Recognition work (pdf)&lt;/a&gt; by &lt;a href='http://research.microsoft.com/en-us/um/people/akapoor/'&gt;Ashis Kapoor&lt;/a&gt; showed how to increase face recognition introducing very simple &amp;#8220;context&amp;#8221; constrains (two people in the same image cannot be the same person etc.). Very interesting work, I wonder how much better you can get introducing some more dynamic context recognition to the face recognition task.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.cs.ubc.ca/~murphy/'&gt;Gail Murphy&lt;/a&gt; gave the other keynote &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5302/5557'&gt;Task Context for Knowledge Workers (pdf)&lt;/a&gt;. She introduces context modelling for tasks in GTD scenarios. Also quite interesting, as completely complimentary to my work (no mobile clients, sensors etc.).&lt;/p&gt;
+
+&lt;p&gt;A lot of people were aware of our efforts during the &lt;a href='http://www.opportunity-project.eu/'&gt;Opportunity Project&lt;/a&gt; and the standard datasets we want to put out.&lt;/p&gt;
+
+&lt;p&gt;Rim Helaoui presented work about using &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5269/5552'&gt;Probabilistic Description Logics (pdf)&lt;/a&gt; for activity recognition, an interesting approach trying to combine data driven and rule-based activity inference. They used the opportunity dataset ;)&lt;/p&gt;
+
+&lt;p&gt;Bostjan Kaluza shared the call for more standardized datasets in context recognition in his talk about &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5305/5555'&gt;The Activity Recognition Repository (pdf)&lt;/a&gt;. A very important endeavor, I already also discussed several times. I think a broad effort in the field is necessary.&lt;/p&gt;
+
+&lt;p&gt;All the final papers are up on the &lt;a href='http://activitycontext.org/final-papers/'&gt;workshop website&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Towards Dynamically Configurable Context Recognition Systems</title>
+   <link href="http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online"/>
+   <updated>2012-07-09T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</id>
+   <content type="html">&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
+
+&lt;p&gt;Also download &lt;a href='http://kaikunze.de/slides/2012aaai-slides.pdf'&gt;the slides&lt;/a&gt; of my talk.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s the link to the &lt;a href='https://github.com/kkai/snsrlog'&gt;source code for snsrlog for iPhone&lt;/a&gt; (which I mentioned during my talk).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+
+&lt;p&gt;General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition. However, to evaluate potential definitions, suitable standard datasets are needed. This paper presents our effort to create and maintain large scale, multimodal standard datasets for context recognition research. We ourselves used these datasets in previous research to deal with placement effects and presented low-level sensor abstractions in motion based on-body sensing. Researchers, conducting novel data collections, can rely on the toolchain and the the low-level sensor abstractions summarized in this paper. Additionally, they can draw from our experiences developing and conducting context recognition experiments. Our toolchain is already a valuable rapid prototyping tool. Still, we plan to extend it to crowd-based sensing, enabling the general public to gather context data, learn more about their lives and contribute to context recognition research. Applying higher level context reasoning on the gathered context data is a obvious extension to our work.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Some of my publications are online</title>
+   <link href="http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online"/>
+   <updated>2012-07-08T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online</id>
+   <content type="html">&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for the bibtex description and some more papers.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Compensating for On-body Placement Effects in Activity Recognition</title>
+   <link href="http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github"/>
+   <updated>2012-07-07T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github</id>
+   <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, the sources were not available. Finally, I got around to push the &lt;a href='http://github.com/kkai/phdthesis'&gt;latex sources of my dissertation&lt;/a&gt; up to github.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Please feel free to use it as a thesis template, attribution would be apprecitated ;)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Please share if you make improvements, there are a lot of hacks and quick fixes in the sources.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;I&amp;#8217;ll try to share most of the algorithms discussed in my dissertation.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here&amp;#8217;s a quick summary about the content:&lt;/p&gt;
+
+&lt;p&gt;This thesis investigates, how placement variations of electronic devices influence the possibility of using sensors integrated in those devices for context recognition. The vast majority of context recognition research assumes well defined, fixed sen- sor locations. Although this might be acceptable for some application domains (e.g. in an industrial setting), users, in general, will have a hard time coping with these limitations. If one needs to remember to carry dedicated sensors and to adjust their orientation from time to time, the activity recognition system is more distracting than helpful. How can we deal with device location and orientation changes to make context sensing mainstream? This thesis presents a systematic evaluation of device placement effects in context recognition.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Using device motion in html/javascript</title>
+   <link href="http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
+   <updated>2012-06-18T00:00:00+09:00</updated>
+   <id>http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
+   <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
+&lt;iframe frameborder='0' height='281' src='http://player.vimeo.com/video/45626605' width='500'&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;a href='http://vimeo.com/45626605'&gt;Visualization based on mobile phone data&lt;/a&gt; from &lt;a href='http://vimeo.com/user8093378'&gt;Kai Kunze&lt;/a&gt; on &lt;a href='http://vimeo.com'&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can get the code from my &lt;a href='https://github.com/kkai/devicemotion-demo'&gt;github page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s based on these tutorials and sample code:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial'&gt;a simple chat server node.js tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/'&gt;3d css cube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://openprocessing.org/sketch/19216'&gt;3d cube world&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

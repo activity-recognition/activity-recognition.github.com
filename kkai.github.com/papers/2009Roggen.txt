@@ -1,0 +1,8 @@
+@inproceedings{Roggen:2009ff,
+author = {Roggen, Daniel and Forster, Kilian and Calatroni, Alberto and Holleczek, Thomas and Fang, Yu and Troster, Gerhard and Ferscha, Alois and Holzmann, Clemens and Riener, Andreas and Lukowicz, Paul and Pirkl, Gerald and Bannach, David and Kunze, Kai and Chavarriaga, Ricardo and Millan, Jose del R},
+title = {{OPPORTUNITY: Towards opportunistic activity and context recognition systems}},
+booktitle = {2009 IEEE International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WowMoM)},
+year = {2009},
+pages = {1--6},
+publisher = {IEEE}
+}
