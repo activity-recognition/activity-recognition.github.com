@@ -6,6 +6,11 @@ description: ""
 group: navigation
 navside: ["overview","definitions"]
 
+navigation:
+  title: Introduction 
+  weight: 100
+  show: true
+
 ---
 {% include JB/setup %}
 
