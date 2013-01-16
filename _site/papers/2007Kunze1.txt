@@ -1,0 +1,10 @@
+@inproceedings{Kunze:2007tl,
+author = {Kunze, Kai and Lukowicz, Paul},
+title = {{Symbolic object localization through active sampling of acceleration and sound signatures}},
+booktitle = {UbiComp '07: Proceedings of the 9th international conference on Ubiquitous computing},
+year = {2007},
+publisher = { Springer-Verlag},
+address = {Innsbruck},
+month = sep
+}
+

@@ -1,0 +1,12 @@
+
+http://activity-recognition.github.com/about.html
+http://activity-recognition.github.com/atom.xml
+http://activity-recognition.github.com/howto.html
+http://activity-recognition.github.com/index.html
+http://activity-recognition.github.com/intro.html
+http://activity-recognition.github.com/links.html
+http://activity-recognition.github.com/publications.html
+http://activity-recognition.github.com/sharing.html
+http://activity-recognition.github.com/sitemap.txt
+
+http://activity-recognition.github.com/lessons/2011/12/29/jekyll-introduction

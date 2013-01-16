@@ -1,0 +1,26 @@
+<header class="jumbotron subhead" id="head">
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+    <p class="lead">
+    {% if page.tagline %}<small>{{ page.tagline }}</small>{% endif %}</p>
+  </div>
+</header>
+<!-- Docs nav ================================================== -->
+<div class="container">
+{% if page.navside %}
+ <div class="row">
+      <div class="span3 bs-docs-sidebar">
+        <ul class="nav nav-list bs-docs-sidenav nav-pills nav-stacked">
+  {% for node in page.navside %}
+  <li><a href="#{{node}}">{{node}}</a></li>
+  {% endfor %}
+   </div>
+{% endif %}
+  <div class="span9">
+    {{ content }}
+  </div>
+{% if page.navside %}
+</div>
+
+{% endif %}
+</div>

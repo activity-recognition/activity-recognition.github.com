@@ -1,0 +1,10 @@
+@inproceedings{Kunze:2009wg,
+author = {Kunze, Kai and Wagner, Florian and Kartal, Ersun and Kluge, Ernesto Morales and Lukowicz, Paul},
+title = {{Does Context Matter ? - A Quantitative Evaluation in a Real World Maintenance Scenario}},
+booktitle = {Pervasive '09: Proceedings of the 7th International Conference on Pervasive Computing},
+year = {2009},
+publisher = { Springer-Verlag},
+month = may
+}
+
+

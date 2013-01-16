@@ -1,0 +1,10 @@
+@inproceedings{Pirkl:2008tj,
+author = {Pirkl, Gerald and Stockinger, Karl and Kunze, Kai and Lukowicz, Paul},
+title = {{Adapting magnetic resonant coupling based relative positioning technology for wearable activitiy recogniton}},
+booktitle = {ISWC '08: Proceedings of the 2008 12th IEEE International Symposium on Wearable Computers},
+year = {2008},
+publisher = { IEEE Computer Society},
+month = sep
+}
+
+
