@@ -1,2 +1,0 @@
-activity-recognition.github.com
-===============================

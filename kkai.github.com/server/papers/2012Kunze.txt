@@ -1,9 +1,0 @@
-@inproceedings{Kunze:2012,
-author = {Kunze, Kai and Bannach, David},
-title = {{Towards Dynamically Configurable Context Recognition Systems}},
-booktitle = {AAAI Symposium Activity Context Workshop},
-year = {2012},
-publisher = {AAAI},
-address = {Toronto,Canada},
-month = jul
-}
