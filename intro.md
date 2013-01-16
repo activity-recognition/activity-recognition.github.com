@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: pagenav
 title: "Introduction"
 tagline: "a short overview about activity recognition"
 description: ""
 group: navigation
+navside: ["overview","definitions"]
 
 ---
 {% include JB/setup %}
