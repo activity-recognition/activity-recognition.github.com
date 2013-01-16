@@ -1,5 +1,5 @@
 ---
-layout: pagenav
+layout: page
 title: "Introduction"
 tagline: "a short overview about activity recognition"
 description: ""
