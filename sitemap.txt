@@ -1,4 +1,123 @@
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sitemap</title>
+    
+    <meta name="author" content="Kai Kunze">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/css/style.css" rel="stylesheet">
+<link href="/assets/themes/twitter/css/docs.css" rel="stylesheet">
+
+    <style>
+
+    @media (min-width: 980px) {
+
+      body {
+        padding-top: 80px;
+      }
+    }
+
+    section {
+      margin-top: 80px;
+    }
+
+    </style>
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+  </head>
+
+  <body data-spy="scroll" data-target=".bs-docs-sidebar">
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">Activity Recognition</a>
+          <ul class="nav">
+            
+            
+            
+
+
+  
+    
+      
+      	
+      	<li><a href="/howto.html">Howto's</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/publications.html">Publications</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/sharing.html">Sharing</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/links.html">Links</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/about.html">About</a></li>
+      	
+      
+    
+  
+
+
+
+
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+
+     
+<header class="jumbotron subhead" id="head">
+  <div class="container">
+    <h1>Sitemap</h1>
+    <p class="lead">
+    </p>
+  </div>
+</header>
+<!-- Docs nav ================================================== -->
+<div class="container">
+<div class="row">
+  <div class="span12">
+    
 http://activity-recognition.github.com/about.html
 http://activity-recognition.github.com/atom.xml
 http://activity-recognition.github.com/howto.html
@@ -10,3 +129,34 @@ http://activity-recognition.github.com/sharing.html
 http://activity-recognition.github.com/sitemap.txt
 
 http://activity-recognition.github.com/lessons/2011/12/29/jekyll-introduction
+  </div>
+</div>
+</div>
+
+
+
+    
+
+       <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/assets/themes/twitter/bootstrap/js/jquery.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/google-code-prettify/prettify.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-transition.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-alert.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-modal.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-dropdown.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-scrollspy.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-tab.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-tooltip.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-popover.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-button.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-collapse.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-typeahead.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap-affix.js"></script>
+    <script src="/assets/themes/twitter/bootstrap/js/application.js"></script>
+    
+  </body>
+</html>
+
